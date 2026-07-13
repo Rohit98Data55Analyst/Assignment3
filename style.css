@@ -1,0 +1,28 @@
+body{
+    background-color: #b82a2a;
+}
+h1,h2,h4{
+    color:rgb(4, 4, 71);
+}
+h2{
+    background-color:aqua ;
+}
+#para{
+    color: green;
+}
+ul li{
+    color:white;
+  
+}
+ul li:first-child a{
+        background-color: yellow;
+    }
+ul li:last-child a{
+        background-color: blue;
+    }
+ol li:nth-child(2) {
+       color:blue;
+}  
+ol li:nth-child(3){
+    color:red;
+}  
