@@ -5,10 +5,23 @@ h1,h2,h4{
     color:rgb(4, 4, 71);
 }
 h2{
-    background-color:aqua ;
+    background-color:lime ;
+}
+h2 span{
+    color:red;
+}
+p{
+    color:white;
 }
 #para{
     color: green;
+}
+p span{
+    color:black;
+    FONT-SIZE:20PX;
+}
+p:last-of-type {
+    color: black;
 }
 ul li{
     color:white;
